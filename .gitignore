@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+/test_assets/
+/build/
+/dist/
+*.spec
+*.exe
+
